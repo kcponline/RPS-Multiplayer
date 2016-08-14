@@ -1,0 +1,30 @@
+body {
+	background: url("../images/knitted-netting.png");
+}
+
+header {
+	background-color: lavender;
+	padding: 20px;
+	font-size: 30px;
+	text-align: center;
+}
+
+.panel {
+	background-color: grey;
+	text-align: center;
+	float: left;
+	width: 30%;
+	margin-right: 3%;
+}
+
+.subpanel {
+	background-color: red;
+	text-align: center;
+	margin: 3px;
+}
+
+#messagePanel {
+	text-align: center;
+	background-color: yellow;
+	margin: 10px 0;
+}
