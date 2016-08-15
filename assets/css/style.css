@@ -1,4 +1,4 @@
-	/* hard code skeleton for ez visualization during design */
+	/* hard code skeleton (hcs) for ez visualization during design */
 
 body {
 	background: url("../images/knitted-netting.png");
@@ -23,6 +23,7 @@ header {
 	background-color: red;
 	text-align: center;
 	margin: 3px;
+	color: white;
 }
 
 #messagePanel {
