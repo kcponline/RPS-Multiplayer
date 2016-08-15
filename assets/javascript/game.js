@@ -14,7 +14,7 @@ var database = firebase.database();
 // Pseudo 01b: check all links - js - to be comment out
 document.getElementById("message1").innerHTML = "js link check";
 // Pseudo 01c: check all links - jq - to be comment out
-
+$("#message2").html("jq link check");
 
 // pseudo 01d: check all links - firebase
 $("#submit").on("click", function() {
